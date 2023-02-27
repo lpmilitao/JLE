@@ -16,10 +16,10 @@
     <h1 class="title">Cadastrar Instrumento</h1>
     <div class="container">
 
-
     </div>
 
-    <!--script php para mostrar mensagem de Frase Famosa Cadastrada com sucesso !!!
+    <!--script php para mostrar mensagem de Frase Famosa Cadastrada com sucesso !!! 
+
     <form name="dados" action="../php/musisom_cadastrar.php" method="POST" enctype="multipart/form-data">
         Tipo de Instrumento: <input type="text" name="tipo" size="150" /> <br /> <br />
         Marca do Instrumento: <input type="text" name="marca" size="150" /> <br /> <br />
@@ -39,6 +39,6 @@
         echo "</font>";
     }
     ?>
-</body>
-
+  </body>
 </html>
+
